@@ -11,7 +11,7 @@ final class FinalDemo {
 	public static void main(String[] args) {
 		FinalDemo fd = new FinalDemo();
 		fd.display();
-		/*fd.Max = 200; final variable doesnot reassign it*/
+		/*fd.Max = 200 final variable doesnot reassign it*/
 
 	}
 
