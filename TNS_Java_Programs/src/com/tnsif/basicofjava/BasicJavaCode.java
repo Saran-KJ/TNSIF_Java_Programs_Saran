@@ -1,4 +1,4 @@
-package basicofjava;
+package com.tnsif.basicofjava;
 import java.util.Scanner;
 
 public class BasicJavaCode {

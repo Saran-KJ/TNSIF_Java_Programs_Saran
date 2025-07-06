@@ -1,4 +1,4 @@
-package oopsconcept;
+package com.tnsif.oopsconcept;
 
 public class Encapsulation {
 	
