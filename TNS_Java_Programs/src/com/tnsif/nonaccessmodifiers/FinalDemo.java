@@ -21,4 +21,4 @@ final class FinalDemo {
 	void display() {
 		System.out.println("show the value of max: "+Max);
 	}*/  //final class doesnot extend
-}
+
